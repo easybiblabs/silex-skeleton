@@ -1,0 +1,17 @@
+{
+    "name": "easybiblabs/silex-skeleton",
+    "description": "",
+    "autoload": {
+        "psr-0": {
+            "": "src/"
+        }
+    },
+    "require": {
+        "silex/silex": "~1.1"
+    },
+    "require-dev": {
+        "symfony/browser-kit": "2.3.*",
+        "phpmd/phpmd": "1.4.*",
+        "phpunit/phpunit": "3.7.*"
+    }
+}
