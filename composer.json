@@ -12,6 +12,7 @@
     "require-dev": {
         "symfony/browser-kit": "2.3.*",
         "phpmd/phpmd": "1.4.*",
+        "squizlabs/php_codesniffer": "1.*",
         "phpunit/phpunit": "3.7.*"
     }
 }
