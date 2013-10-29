@@ -1,5 +1,6 @@
 # EasyBib Silex Skeleton
 
+[![Build Status](https://travis-ci.org/easybiblabs/silex-skeleton.png?branch=master)](https://travis-ci.org/easybiblabs/silex-skeleton)
 This silex-skeleton is here to help setting up of new Silex apps for easybib.
 
 * [http://silex.sensiolabs.org/](http://silex.sensiolabs.org/)
