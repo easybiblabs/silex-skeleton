@@ -10,3 +10,8 @@ script:
   - ./vendor/bin/phpcs --standard=psr2 ./src
   - ./vendor/bin/phpmd src/ text codesize,controversial,design,naming,unusedcode
   - ./vendor/bin/phpunit
+
+# travis should only notify us if the build fails
+notifications:
+  email:
+    on_success: never
