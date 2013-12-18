@@ -1,5 +1,5 @@
 <?php
-namespace Easybib\Tests;
+namespace EasyBib\Tests;
 
 use Silex\WebTestCase;
 use Symfony\Component\HttpKernel\HttpKernel;
@@ -32,4 +32,4 @@ class AppTest extends WebTestCase
         return require __DIR__ . '/../../bootstrap.php';
     }
 }
- 
+
