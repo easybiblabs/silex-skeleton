@@ -9,7 +9,7 @@ This silex-skeleton is here to help setting up of new Silex apps for easybib.
 
 * Clone this repo `git clone https://github.com/easybiblabs/silex-skeleton.git your-project`
 * Go into project-dir: `cd your-project`
-* Remove `.git` files with `rm .git`
+* Remove `.git` files with `rm -rf .git`
 * Initialize own project repo `git init` and rename everything that belongs to your project
 * Run `./composer.phar update` to install dependencies
 * Run `./vendor/bin/phpunit` to check that everything works
