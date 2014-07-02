@@ -8,7 +8,7 @@
         }
     },
     "require": {
-        "silex/silex": "~1.1"
+        "silex/silex": "~1.2"
     },
     "require-dev": {
         "symfony/browser-kit": "2.3.*",
