@@ -1,7 +1,7 @@
 {
     "name": "easybiblabs/silex-skeleton",
     "description": "Simple project setup with the silex skeleton",
-    "license": "MIT",
+    "license": "Apache-2.0",
     "autoload": {
         "psr-0": {
             "": "src/"
